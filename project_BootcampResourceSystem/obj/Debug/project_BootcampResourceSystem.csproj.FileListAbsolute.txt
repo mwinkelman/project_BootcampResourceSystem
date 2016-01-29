@@ -1,0 +1,6 @@
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project_BootcampResourceSystem\project_BootcampResourceSystem\bin\Debug\project_BootcampResourceSystem.exe.config
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project_BootcampResourceSystem\project_BootcampResourceSystem\bin\Debug\project_BootcampResourceSystem.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project_BootcampResourceSystem\project_BootcampResourceSystem\bin\Debug\project_BootcampResourceSystem.pdb
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project_BootcampResourceSystem\project_BootcampResourceSystem\obj\Debug\project_BootcampResourceSystem.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project_BootcampResourceSystem\project_BootcampResourceSystem\obj\Debug\project_BootcampResourceSystem.pdb
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\project_BootcampResourceSystem\project_BootcampResourceSystem\obj\Debug\project_BootcampResourceSystem.csprojResolveAssemblyReference.cache
